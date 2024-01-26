@@ -1,6 +1,6 @@
 # Data Analytics of Jobs.
 
-In this repositry, we analyse the the data from (this kaggle website) and look at how people's level of education, gender and years of experience affect their salary.
+In this repositry, we analyse the the data from https://www.kaggle.com/datasets/mohithsairamreddy/salary-data and look at how people's level of education, gender and years of experience affect their salary.
 
 ## Cleaning of Data
 We cleaned the data by firstly removing NaN values. Then we merged the education level that meant the same things but are written differently. We then made dummy variables for each education level and genders.
